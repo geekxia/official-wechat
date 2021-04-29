@@ -1,0 +1,13 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+.test {
+  width: 10rem;
+  height: 5rem;
+  background-color: red;
+  font-size: .4rem;
+}
